@@ -28,4 +28,7 @@ When the required parameter is passed, the details of that particular EmployeeID
 ![image](https://github.com/DevanandKP/azure-functions-explorations/assets/100085173/75ccd95a-00dc-4c99-96ba-3ec446669885)
 ![image](https://github.com/DevanandKP/azure-functions-explorations/assets/100085173/b8329316-2988-4281-88c7-1976a5af663a)
 
+## Assignment 2:
 
+Text file screenshot for the timer functions.
+![image](https://github.com/DevanandKP/azure-functions-explorations/assets/100085173/c850b272-ec82-4ac1-814d-1915e4479fa6)
