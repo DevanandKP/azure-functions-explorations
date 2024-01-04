@@ -137,6 +137,7 @@ __azurite_db*__.json
 #VS Code
 .vscode/
 
-#Output Folder
+#Output Folders
 output/
+salary/
 *.csv
